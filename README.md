@@ -5,12 +5,13 @@
 
 
 Projects to come soon
-- Privacy and Ethical Programming related projects
+- Privacy and Ethical Programming related projects (Python focused)
 - Web Development (Python Flask & React) + Database Management
 
 Previous programming endeavors
-- Unity Game Development
-- VR Game Development
+- Unity Game Development (C# / Unity)
+- VR Game Development (Meta Quest 2 Demo Available)
 - Android Mobile App Development (Java / Android Studio)
 - IOS App Development (Swift / XCode)
+- Machine learning (Kaggle competition)
 
