@@ -1,16 +1,16 @@
-### Hi there 👋
+👋 Hi, I’m TaeSeo Um 
+- Currently a senior Computer Science student @ Stevens Institute of Technology
+- Want to expand knowledge and share ideas
+- Currently working on a private password managing app/software
 
-<!--
-**taeseoum/taeseoum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Projects to come soon
+- Privacy and Ethical Programming related projects
+- Web Development (Python Flask & React) + Database Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previous programming endeavors
+- Unity Game Development
+- VR Game Development
+- Android Mobile App Development (Java / Android Studio)
+- IOS App Development (Swift / XCode)
+
