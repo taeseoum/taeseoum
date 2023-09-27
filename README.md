@@ -5,7 +5,7 @@
 
 
 Projects to come soon
-- Privacy and Ethical Programming related projects (Python focused)
+- Artificial Intelligence related projects (Python focused)
 - Web Development (Python Flask & React) + Database Management
 
 Previous programming endeavors
