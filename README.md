@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TaeSeo Um</h1>
 <h3 align="center">Rising ML/AI Developer from South Korea</h3>
 
-- 🔭 I’m currently a Masters Student in Virginia Tech!!!**
+- 🔭 I’m currently a Masters Student in **Virginia Tech!!!**
 
 - 🌱 I’m currently learning **Tensorflow, TinyGrad, Node.js**
 
